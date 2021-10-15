@@ -1,0 +1,1 @@
+{"name":"product-view-service-feign","profiles":["dev"],"label":null,"version":"de33c35c030bf2bd4c40b03019b7c5586187ed6b","state":null,"propertySources":[{"name":"https://github.com/how2j/springcloudConfig//respo/product-view-service-feign-dev.properties","source":{"version":"how2j springcloud version 1.7"}}]}
